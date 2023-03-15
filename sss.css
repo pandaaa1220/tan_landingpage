@@ -1,6 +1,6 @@
 img {
-	width: 50%;
-	height:50%;
+	width: 20%;
+	height:20%;
 	background-color:#d8d7bf
 	padding: 20px 20px;
 	border-radius: 20px;
@@ -15,27 +15,27 @@ body {
 	background-color:#d8d7bf;
 	font-family:verdana, Serif;
 }
-h1,h4 {
+h2,h3 {
 	text-align:left;
 	color: black;
 	font-family: verdana, Serif;
 }
 
-h1,h4 {
+h2,h3 {
 	text-align:left;
 	color: black;
 	font-family: verdana, Serif;
 }
 
-h1,h4 {
+h2,h3 {
 	text-align:left;
 	color: black;
 	font-family: verdana, Serif;
 }
 
 img {
-    width:25%;
-    height:25%;
+    width:20%;
+    height:20%;
 }
 
 a{

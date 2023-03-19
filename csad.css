@@ -1,12 +1,12 @@
 div.logo{
-	font-size: 23px;
+	font-size: 20px;
 	font-family: arial;
 	font-weight: bold;
 }
 
 nav.navbar{
 	display:flex;
-	align-items: center;
+	align-items: right;
 	justify-content: space-between;
 	padding: 20px;
 	background-color:#d8d7bf;
@@ -72,9 +72,11 @@ h2,h4{
 	font-family: verdana, Serif;
 }
 
-img {
+.center {
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
     width:50%;
-    height:50%;
 }
 
 a{
